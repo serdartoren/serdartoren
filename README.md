@@ -1,14 +1,28 @@
-<h1 align="center">Hi 👋, I'm Serdar</h1>
+<h1 align="center">Hi, I'm Serdar</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/serdar-toren-b9ab6a131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serdar-toren-b9ab6a131" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@serdartoren/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@serdartoren/featured" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="cplusplus" width="103" height="40"/> </a> </p>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="4%"/> 
+</a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  width="4%"/> 
+</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="4%"/> 
+</a>
+<img src="https://user-images.githubusercontent.com/42543700/236893385-d446d638-20e3-4fe6-a61b-14a08a8b17b1.png"  width="4%"/> 
+</a>
+<img src="https://user-images.githubusercontent.com/42543700/236884904-88878c8d-b5c5-42c2-ac98-11215b222bc1.svg"  width="4%"/> 
+</a>
+<img src="https://user-images.githubusercontent.com/42543700/236885082-98f0470b-4789-416f-b5b5-c4b5353dbcfd.svg"  width="5.5%"/> 
+</a>
+<img src="https://user-images.githubusercontent.com/42543700/236892171-5fc334b3-816e-48fa-97e0-191a10559f3a.png"  width="6%"/> 
+</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  width="4%"/> 
+</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg"  width="8.5%"/> 
+</a>
+</a> </p>
 
 
 [![](https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
