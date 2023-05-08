@@ -12,7 +12,7 @@
 
 <div align="center" >
   
-<img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/0-profile-details.svg"  width="50%">
+<img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/0-profile-details.svg"  width="49.5%">
 <img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="24.5%">
 <img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/3-stats.svg" width="24.5%">
 
