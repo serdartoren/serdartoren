@@ -11,6 +11,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="cplusplus" width="103" height="40"/> </a> </p>
 
 <div align="left" > 
-<img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/0-profile-details.svg"  width="40.2%">
-<img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/3-stats.svg" width="20%">
+<img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/0-profile-details.svg"  >
+<img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/3-stats.svg" ">
 <br />
