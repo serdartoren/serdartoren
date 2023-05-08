@@ -13,4 +13,5 @@
 <div align="left" > 
 <img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 <img src="https://raw.githubusercontent.com/serdartoren/CARD_TEST/master/profile-summary-card-output/nord_dark/3-stats.svg">
+  
 <br />
