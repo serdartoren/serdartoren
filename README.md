@@ -1,7 +1,7 @@
 <h3 align="left">Title: Embedded Software Engineer</h3>
 
 I usually working with STM32 and ESP32. <br>
-I like to do object-oriented projects with the C programming language. <br>
+I like to do object-oriented projects with the C language. <br>
 I hope you can find useful codes in my profile!
 
 <h3 align="left">Languages and Tools:</h3>
